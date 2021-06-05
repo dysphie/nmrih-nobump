@@ -1,3 +1,7 @@
+### This plugin is deprecated. Use `sv_max_separation_force 0` instead.
+
+ ---
+
 ![https://i.imgur.com/MX1Z1ys.png](https://i.imgur.com/MX1Z1ys.png)
 # [NMRiH] NoBump
 This plugin seeks to stop survivors constantly bumping into each other during gameplay.
