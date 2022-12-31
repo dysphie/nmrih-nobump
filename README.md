@@ -1,4 +1,4 @@
-### This plugin is deprecated. Use `sv_max_separation_force 0` instead.
+### ⚠️ This plugin is deprecated. Use `sv_max_separation_force 0` instead.
 
  ---
 
